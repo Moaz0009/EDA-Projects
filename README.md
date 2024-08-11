@@ -1,7 +1,3 @@
-Here's an updated README file, tailored to focus on Exploratory Data Analysis (EDA) for your repository:
-
----
-
 # Exploratory Data Analysis (EDA) Projects
 
 This repository contains a collection of projects focused on Exploratory Data Analysis (EDA) using various datasets. Each project aims to uncover insights through data visualization, summary statistics, and initial data exploration techniques.
@@ -90,7 +86,3 @@ Contributions are welcome! If you have ideas, suggestions, or find any issues, p
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This README file should be placed in your repository as `README.md`. It is specifically designed to highlight the EDA focus of your projects.
